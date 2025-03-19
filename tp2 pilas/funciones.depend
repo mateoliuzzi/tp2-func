@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742439907 source:c:\users\mateo\documents\funciones\tp2 pilas\pila.c
+	"pila.h"
+
+1742439903 c:\users\mateo\documents\funciones\tp2 pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1742441867 source:c:\users\mateo\documents\funciones\tp2 pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
