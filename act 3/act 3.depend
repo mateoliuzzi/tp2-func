@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742439907 source:c:\users\mateo\documents\act 3\pila.c
+	"pila.h"
+
+1742439903 c:\users\mateo\documents\act 3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1742476226 source:c:\users\mateo\documents\act 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
